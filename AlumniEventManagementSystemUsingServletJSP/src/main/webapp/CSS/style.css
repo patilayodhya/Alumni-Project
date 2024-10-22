@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+.navbar{
+	color:white;
+	background-color: lightcoral;
+}
+.control{
+	width:20px;
+	height:40px;
+	margin-left: 50px;
+	border-radius: 10px;
+	padding: 10px;
+}
